@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         myView.contentMode = .scaleAspectFit
         myView.loopMode = .loop
         
+        // Clone Test
+        self.view.backgroundColor = .darkGray
 
     }
     
