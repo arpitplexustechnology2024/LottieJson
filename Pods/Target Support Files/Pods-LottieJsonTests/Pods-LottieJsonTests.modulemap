@@ -1,0 +1,6 @@
+framework module Pods_LottieJsonTests {
+  umbrella header "Pods-LottieJsonTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
