@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         myView.loopMode = .loop
         
         // Clone Test
-        self.view.backgroundColor = .darkGray
+        self.myView.backgroundColor = .none
 
     }
     

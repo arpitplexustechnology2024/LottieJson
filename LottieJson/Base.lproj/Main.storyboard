@@ -24,7 +24,7 @@
                                     <constraint firstAttribute="height" constant="300" id="khZ-D3-hz5"/>
                                 </constraints>
                                 <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="string" keyPath="animationName" value="LoaderInfinity"/>
+                                    <userDefinedRuntimeAttribute type="string" keyPath="animationName" value="LoaderAnimationCircle"/>
                                 </userDefinedRuntimeAttributes>
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" role="primary" translatesAutoresizingMaskIntoConstraints="NO" id="0GF-yx-X1D">
